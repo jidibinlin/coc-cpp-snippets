@@ -1,0 +1,1 @@
+# coc-cpp-snippets
