@@ -1,0 +1,26 @@
+{
+	"name": "cpp-snippets",
+	"displayName": "cpp-snippets",
+	"description": "Snippets for c++ sources",
+	"version": "1.0.1",
+	"publisher": "agauniyal",
+	"engines": {
+		"vscode": "^1.11.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "cpp",
+				"path": "./snippets/snippets.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "0d19e1f8-fdd1-4c20-9f75-bc460772064f",
+		"publisherId": "ec778373-8f64-44a0-8f1c-68ebc71c028c",
+		"publisherDisplayName": "Abhinav Gauniyal"
+	}
+}
